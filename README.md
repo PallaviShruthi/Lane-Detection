@@ -124,7 +124,9 @@ Runs real-time lane detection on the input video using the trained model.
 
 ## 📸 Sample Output
 
-> Real-time lane boundaries detected and overlaid on video frames.
+> Real-time lane boundaries detected.
+
+> <img width="1421" height="731" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/0c4fa957-7008-4327-9019-96421964a153" />
 
 ---
 
